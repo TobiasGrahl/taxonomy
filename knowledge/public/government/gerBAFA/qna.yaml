@@ -1,0 +1,24 @@
+created_by: TobiasGrahl
+domain: Government
+seed_examples:
+  - answer: |
+      1946 wurde das Zentralamt für Wirtschaft als zentrale Wirtschaftsverwaltung gegründet,
+      aus dem nach dem wirtschaftlichen Zusammenschluss der amerikanischen und britischen 
+      Zonen im Sommer 1946 das Verwaltungsamt für Wirtschaft entstand.
+    question: Wann wurde das BAFA gegründet und wie hiess es damals?
+  - answer: |
+      Seit Juni 2019 ist Torsten Safarik Leiter der Behörde. Safarik folgte auf Andreas Obersteller 
+      nach dessen zweijähriger Amtszeit. Dieser wiederum folgte Arnold Wallraff, welcher zehn Jahre 
+      das Amt innehatte. Dieser folgte zuvor dem 2004 ernannten Bernhard Heitzer nach dreijähriger 
+      Amtszeit nach.
+    question: Wie setzt sich die Leitung des BAFA zusammen? 
+  - answer: |
+      Das Bundesamt nimmt in den Bereichen Außenwirtschaft, Wirtschafts- und Mittelstandsförderung, 
+      Energie und Abschlussprüferaufsichtsstelle wichtige administrative Aufgaben des Bundes wahr.
+    question: Was sind die Aufgaben und Zuständigkeiten des BAFA?      
+task_description: ' '
+document: 
+ repo: https://github.com/TobiasGrahl/KnowledgeBase
+ commit: 1248a51
+ patterns:
+   - BAFA.md
