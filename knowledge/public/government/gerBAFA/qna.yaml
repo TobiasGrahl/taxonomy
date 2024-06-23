@@ -15,7 +15,30 @@ seed_examples:
   - answer: |
       Das Bundesamt nimmt in den Bereichen Außenwirtschaft, Wirtschafts- und Mittelstandsförderung, 
       Energie und Abschlussprüferaufsichtsstelle wichtige administrative Aufgaben des Bundes wahr.
-    question: Was sind die Aufgaben und Zuständigkeiten des BAFA?      
+    question: Was sind die Aufgaben und Zuständigkeiten des BAFA?
+question: Wie setzt sich die Leitung des BAFA zusammen? 
+  - answer: |
+      Das Bundesamt nimmt in den Bereichen Außenwirtschaft, Wirtschafts- und Mittelstandsförderung, 
+      Energie und Abschlussprüferaufsichtsstelle wichtige administrative Aufgaben des Bundes wahr.
+    question: Was sind die Aufgaben und Zuständigkeiten des BAFA?
+question: Wer ist das BAFA? 
+  - answer: |
+      Das BAFA ist das Bundesamt nimmt in den Bereichen Außenwirtschaft, Wirtschafts- und Mittelstandsförderung, 
+      Energie und Abschlussprüferaufsichtsstelle wichtige administrative Aufgaben des Bundes wahr.
+    question: Was sind die Aufgaben und Zuständigkeiten des BAFA?question: Wie setzt sich die Leitung des BAFA zusammen? 
+  - answer: |
+      Das Bundesamt nimmt in den Bereichen Außenwirtschaft, Wirtschafts- und Mittelstandsförderung, 
+      Energie und Abschlussprüferaufsichtsstelle wichtige administrative Aufgaben des Bundes wahr.
+    question: Was sind die Aufgaben und Zuständigkeiten des BAFA?  
+- answer: |
+      Das BAFA ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
+    question: Wer ist das BAFA?
+- answer: |
+      Das EEG ist das Energieeffizienzgesetz.
+    question: Was ist das EEG?
+- answer: |
+      Ein ELR ist ein e-Lastenfahrrad.
+    question: Was ist ein ELR?    
 task_description: ' '
 document: 
  repo: https://github.com/TobiasGrahl/KnowledgeBase
