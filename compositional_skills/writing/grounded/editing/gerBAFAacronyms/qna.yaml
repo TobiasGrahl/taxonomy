@@ -1,0 +1,41 @@
+version: 2
+task_description: |
+    Das Modell lehren, gegebenen Text richtig zu bearbeiten, nach Regeln\
+    im folgenden Stilführer:\\
+    1. Verwenden Sie keine Abkürzungen oder Akronyme, die der Leser\
+    nicht schnell erkennen würde, stattdessen erweitern Sie das Akronym.\\
+    2. Fügen Sie nachständigen einer Organisation keine Abkürzung oder\
+    Akronyme in Klammern hinzu.\\
+created_by: TobiasGrahl
+seed_examples:
+  - context: |
+      Das Verfahren für das Energiekostendämpfungsprogramm (EKDP) des Bundesamtes
+      für Wirtschaft und Ausfuhrkontrolle (BAFA) ermöglicht
+      temporäre Zuschüsse zu gestiegenen Erdgas- und Strompreisen in besonders
+      betroffenen Branchen.
+    question: |
+      Was bedeutet die Abkürzung EKDP im angegebenen Kontext?
+    answer: |
+      Energiekostendämpfungsprogrammt
+  - context: |
+      Das Verfahren für das Energiekostendämpfungsprogramm (EKDP) des Bundesamtes
+      für Wirtschaft und Ausfuhrkontrolle (BAFA) ermöglicht
+      temporäre Zuschüsse zu gestiegenen Erdgas- und Strompreisen in besonders
+      betroffenen Branchen.
+    question: Was bedeutet die Abkürzung BAFA im angegebenen Kontext?
+    answer: Bundesamt für Wirtschaft und Ausfuhrkontrolle
+  - context: |
+      Im Kontext BAFA gilt, der Zuschuss ist bei einer Höhe von 50 Millionen Euro je Unternehmen gedeckelt.\
+      Grundlage ist die vom Bundesministerium für Wirtschaft und Klimaschutz (BMWK) veröffentlichte\
+      Richtlinie über das Energiekostendämpfungsprogramm.
+    question: Was bedeutet die Abkürzung BMWK?
+    answer: Bundesministerium für Wirtschaft und Klimaschutz
+  - context: |
+      Im Kontext des BAFA gilt, Umlagen, von denen das Unternehmen befreit ist, z.B. durch einen Begrenzungsbescheid
+      nach dem EEG 2021, sind nicht zu berücksichtigen.
+    question: Was bedeutet die Abkürzung EEG?
+    answer: Energieeffizienzgesetz
+  - context: |
+      Umstrukturierungen sind Umwandlungen nach dem Umwandlungsgesetz, Anwachsungen nach § 738 BGB
+    question: Was bedeutet die Abkürzung BGB?
+    answer: Bürgerliche Gesetzbuch
