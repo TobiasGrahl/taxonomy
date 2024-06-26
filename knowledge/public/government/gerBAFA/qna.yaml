@@ -3,7 +3,7 @@ domain: Government
 seed_examples:
   - answer: |
       1946 wurde das Zentralamt für Wirtschaft als zentrale Wirtschaftsverwaltung gegründet,
-      aus dem nach dem wirtschaftlichen Zusammenschluss der amerikanischen und britischen 
+      aus dem nach dem wirtschaftlichen Zusammenschluss der amerikanischen und britischen
       Zonen im Sommer 1946 das Verwaltungsamt für Wirtschaft entstand.
     question: Wann wurde das BAFA gegründet und wie hiess es damals?
   - answer: |
@@ -25,12 +25,12 @@ seed_examples:
       Hauptsitz des BAFA ist 65760 Eschborn in der Frankfurter Straße 29 – 35
     question: Welche Adresse hat das BAFA?
   - answer: |
-      Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hast seinen Sitz in Eschborn. Die genaue Adresse lautet: 65760 Eschborn, Frankfurter Straße 29 – 35
+      Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hast seinen Sitz in Eschborn. Die genaue Adresse lautet:
+      65760 Eschborn, Frankfurter Straße 29 – 35
     question: An welchem Standort ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle
-  - 
 task_description: ' '
 document: 
  repo: https://github.com/TobiasGrahl/KnowledgeBase
- commit: 360ff1b
+ commit: b3167d6
  patterns:
    - BAFA.md
