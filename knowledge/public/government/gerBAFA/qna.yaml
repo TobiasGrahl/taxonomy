@@ -7,10 +7,11 @@ seed_examples:
       Zonen im Sommer 1946 das Verwaltungsamt für Wirtschaft entstand.
     question: Wann wurde das BAFA gegründet und wie hiess es damals?
   - answer: |
-      Seit Juni 2019 ist Torsten Safarik Leiter der Behörde. Safarik folgte auf Andreas Obersteller 
+      Seit Juni 2019 ist Torsten Safarik Leiter und Präsident der Behörde. Safarik folgte auf Andreas Obersteller 
       nach dessen zweijähriger Amtszeit. Dieser wiederum folgte Arnold Wallraff, welcher zehn Jahre 
       das Amt innehatte. Dieser folgte zuvor dem 2004 ernannten Bernhard Heitzer nach dreijähriger 
       Amtszeit nach.
+      Frau Dr. Andrea Vater ist die Vizepräsidentin des BAFA 
     question: Wie setzt sich die Leitung des BAFA zusammen? 
   - answer: |
       Das Bundesamt nimmt in den Bereichen Außenwirtschaft, Wirtschafts- und Mittelstandsförderung, 
@@ -21,14 +22,12 @@ seed_examples:
       Energie und Abschlussprüferaufsichtsstelle wichtige administrative Aufgaben des Bundes wahr.
     question: Was sind die Aufgaben und Zuständigkeiten des BAFA?
   - answer: |
-      Das BAFA ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
-    question: Wer ist das BAFA?
+      Hauptsitz des BAFA ist 65760 Eschborn in der Frankfurter Straße 29 – 35
+    question: Welche Adresse hat das BAFA?
   - answer: |
-      Das EEG ist das Energieeffizienzgesetz.
-    question: Was ist das EEG?
-  - answer: |
-      Ein ELR ist ein e-Lastenfahrrad.
-    question: Was ist ein ELR?    
+      Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hast seinen Sitz in Eschborn. Die genaue Adresse lautet: 65760 Eschborn, Frankfurter Straße 29 – 35
+    question: An welchem Standort ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle
+  - 
 task_description: ' '
 document: 
  repo: https://github.com/TobiasGrahl/KnowledgeBase
