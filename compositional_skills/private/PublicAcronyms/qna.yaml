@@ -1,0 +1,42 @@
+version: 2
+task_description: |
+    Das Modell lehren, gegebenen Text richtig zu bearbeiten, nach Regeln\
+    im folgenden Stilführer:\\
+    1. Verwenden Sie keine Abkürzungen oder Akronyme, die der Leser\
+    nicht schnell erkennen würde, stattdessen erweitern Sie das Akronym.\\
+    2. Fügen Sie nachständigen einer Organisation keine Abkürzung oder\
+    Akronyme in Klammern hinzu.\\
+created_by: TobiasGrahl
+seed_examples:
+  
+  - context: |
+      Im Kontext der Öffentlichen Verwaltung bzw. Öffentlichen Dienst.
+    question: |
+      Was bedeutet die Abkürzung BMWK im angegebenen Kontext?
+    answer: |
+      Bundesministerium für Wirktschaft und Klimaschutz (BMWK)
+      
+  - context: |
+      Im Kontext der Öffentlichen Verwaltung bzw. Öffentlichen Dienst.
+    question: |
+      Was bedeutet die Abkürzung DSVGO im angegebenen Kontext?
+    answer: |
+      atenschutz-Grundverordnung (DSGVO (BMWK)
+  - context: |
+      Im Kontext der Öffentlichen Verwaltung bzw. Öffentlichen Dienst.
+    question: |
+      Was bedeutet die Abkürzung KfW im angegebenen Kontext?
+    answer: |
+      Kreditanstalt für Wiederaufbau (KfW)
+  - context: |
+      Im Kontext der Öffentlichen Verwaltung bzw. Öffentlichen Dienst.
+    question: |
+      Was bedeutet die Abkürzung KMU im angegebenen Kontext?
+    answer: |
+      Klein- und Mittelständischeuntermen (KMU)
+  - context: |
+      Im Kontext der Öffentlichen Verwaltung bzw. Öffentlichen Dienst.
+    question: |
+      Was bedeutet die Abkürzung OZG im angegebenen Kontext?
+    answer: |
+      Online Zugangsgesetz (OZG)

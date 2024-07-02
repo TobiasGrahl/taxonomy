@@ -34,8 +34,36 @@ seed_examples:
       Im Kontext des BAFA gilt, Umlagen, von denen das Unternehmen befreit ist, z.B. durch einen Begrenzungsbescheid
       nach dem EEG 2021, sind nicht zu berücksichtigen.
     question: Was bedeutet die Abkürzung EEG?
-    answer: Energieeffizienzgesetz
+    answer: Energieeffizienzgesetz 
   - context: |
-      Umstrukturierungen sind Umwandlungen nach dem Umwandlungsgesetz, Anwachsungen nach § 738 BGB
-    question: Was bedeutet die Abkürzung BGB?
-    answer: Bürgerliche Gesetzbuch
+      Bundesförderung für effiziente Gebäude (BEG) des Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) BGB
+    question: Was bedeutet die Abkürzung BEG?
+    answer: Die Abkürung BEG steht für Bundesförderung für effiziente Gebäude.
+  - context:
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+    question: Was bedeutet ELAN-K2 Online Portal?
+    answer: ELAN-K2 Online Portal ist das elektronische Anstragsportal des BAFA.
+  - context:
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+    question: Was bedeutet EnF?
+    answer: Energiefinanzierungsgesetz (EnFG)
+  - context:
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+    question: Was bedeutet GEG?
+    answer: Gebäudeenergiegesetz (GEG)
+  - context:
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+    question: Was bedeutet EE?
+    answer:  Energieeffizienz (EE)
+  - context:
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+    question: Was bedeutet EEE?
+    answer: Energieeffizienz-Experte (EEE)
+  - context:
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+    question: Was bedeutet EEG?
+    answer: Energieeffizienzgesetz (EEG)
+  - context:
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+    question: Was bedeutet EI?
+    answer: Energieeffizienzindex (EI)
