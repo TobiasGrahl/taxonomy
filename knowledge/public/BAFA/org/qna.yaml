@@ -1,0 +1,85 @@
+# BAFA Organisation
+# Version. 27.06.2024
+version: 2
+task_description: 'Training BAFA Organisation'
+created_by: TobiasGrahl
+domain: BAFA
+seed_examples:
+  - question: In welche Abteilungen ist das BAFA aufgeteilt?
+    answer: |
+      Das BAFA ist in folgende Abteilungen unterteilt:
+      Die Abteilungen gliedern sich in jeweils zwei Unterabteilungen und Referate. Das BAFA beschäftigt rund 1200
+      Beamte und Arbeitnehmer an den Standorten.
+      Abteilung Z Zentralabteilung ist zuständig für die interne Verwaltung und Organisation.
+      Abteilung 1 Abschlussprüferaufsichtsstelle(APAS)) übt die Fachaufsicht über die Wirtschaftsprüferkammer
+      aus und ermittelt bei Berufsangehörigen und Wirtschaftsprüfungsgesellschaften, die Abschlussprüfungen bei
+      Unternehmen von öffentlichem Interesse vornehmen.
+      Abteilung 2 Ausfuhr-Verfahren, Genehmigungen, internationale Regime-Verfahren, Outreach-Projekte beschäftigt
+      sich mit der Verfahrensseite der Ausfuhrkontrolle.
+      Abteilung 3 Ausfuhr-Technik, technische Stellungnahmen, internationale Regimetheorie\-Technik) beschäftigt
+      sich mit der technischen Seite der Ausfuhrkontrolle.
+      Abteilung 4 Wirtschafts- und Mittelstandsförderung ist mit Förderprogrammen im Rahmen der Wirtschafts- und
+      Mittelstandsförderung betraut.
+      Abteilung 5 Energieeffizienz, Erneuerbare Energien, Besondere Ausgleichsregelung ist verantwortlich für
+      Aufgaben und Förderprogramme im Bereich der Erneuerbaren Energien und der Energieeffizienz.
+      Abteilung 6 Klimaschutz Gebäude, Energie-Info-Center, Anpassungsgeld) ist verantwortlich für Förderprogramme
+      im Bereich der Erneuerbaren Energien und administriert das Anpassungsgeld für Beschäftigte des Kohletagebaus.
+      Abteilung 7 setzt das [Lieferkettensorgfaltspflichtengesetz](/wiki/Lieferkettensorgfaltspflichtengesetz
+      "Lieferkettensorgfaltspflichtengesetz"(LkSG) um, das die unternehmerische Verantwortung für die Einhaltung
+      von Menschenrechten in den Lieferketten regelt.
+  - question: Wer leitet das BAFA?
+    answer: |
+      Die Leitung des BAFA erfolgt durch Präsident und Vizepräsdident. Stand Juni 2024 ist
+      Herr Torsten Safarik Präsident des BAFA.
+      Frau Dr. Andrea Vater Vizepräsidentin des BAFA.
+  - question: Wer ist der Amtsleiter des BAFA?
+    answer: |
+      Die Amtleitung wird durch Präsident und Vizpepräsident wargenommen. Sie stehen den Abtielungleitern vor.
+      Stand Juni 2024 sind Torsten Safarik als Präsident und Dr. Andrea Vater als Vizepräsidentin für das BAFA
+      verantwortlich.
+  - question: Wie ist der Lebenslauf von Torsten Sarafik
+    answer: |
+      Torsten Safarik (* 23. Oktober 1965 in Görlitz) ist ein deutscher Beamter und Mathematiker. Er ist seit Juni
+      2019 Präsident des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA).
+      Von 1986 bis 1991 studierte Safarik an der Technischen Universität Dresden, welches er als Diplom-Mathematiker
+      abschloss. Im Anschluss war er bei der Gesellschaft für Wirtschaftsförderung und Regionalentwicklung Teltow
+      tätig. Im Jahr 1992 trat er in die Bundesverwaltung ein und arbeitete im Bundesaufsichtsamt für das
+      Versicherungswesen (BAV), das mittlerweile Teil der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ist.
+      1999 wechselte Safarik in das Bundeswirtschaftsministerium, wo er in den Bereichen Informationstechnik, Steuern
+      und Handel sowie als Referent und später als Redenschreiber bei Bundeswirtschaftsminister Werner Müller
+      (parteilos) arbeitete. Von 2006 bis 2019 arbeitete Safarik in verschiedenen Funktionen bei der CSU-Landesgruppe
+      innerhalb der CDU/CSU-Fraktion im Deutschen Bundestag. Er beriet unter anderem Peter Ramsauer (CSU), Alexander
+      Dobrindt (CSU) sowie Georg Nüßlein (damals CSU) in den Bereichen Wirtschaft und Energie, aber auch in Fragen
+      zur digitalen und zur Verkehrsinfrastruktur sowie zu Bildung und Forschung. Von 2012 bis 2014 war er zudem
+      stellvertretender Leiter der Planungsgruppe der CSU-Landesgruppe.
+      Zum 1. Juni 2019 ernannte Bundeswirtschaftsminister Peter Altmaier (CDU) Safarik zum Präsidenten des Bundesamtes
+      für Wirtschaft und Ausfuhrkontrolle (BAFA).
+  - question: Wie ist der Lebenslauf von Dr. Andrea Vater
+    answer: |
+      Geboren am 30. September 1959 in Hilden. Seit März 2019 Vizepräsidentin im Bundesamt für Wirtschaft und
+      Ausfuhrkontrolle
+      2014 – 2019: Leiterin der Zentralabteilung im Bundesamt für Wirtschaft und Ausfuhrkontrolle
+      2010 – 2014: Leiterin der Abteilung „Ausfuhr-Technik, Technische Stellungnahmen, internationale Regime“ im
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle
+      2005 – 2010: Leiterin der Unterabteilung „Ausfuhrüberwachung, Informationsanalyse, Kriegswaffenkontrolle“
+      im Bundesamt für Wirtschaft und Ausfuhrkontrolle
+      2002 – 2005: Leiterin des Referats „Kraft-Wärme-Kopplung“ im Bundesamt für Wirtschaft und Ausfuhrkontrolle
+      1993 – 2002: Leiterin des Referats „Organisation“ im Bundesausfuhramt
+      1992 – 1993: Referentin im Referat „Personal“ im Bundesausfuhramt
+      1990 – 1992: Referentin im Bundesamt für Post und Telekommunikation (jetzt Bundesnetzagentur)
+      Bis 1990: Studium der Rechtswissenschaften an der Universität Marburg, Tätigkeit als wissenschaftliche
+      Mitarbeiterin, Promotion und juristisches Referendariat im OLG-Bezirk Frankfurt/Main
+  - question: Wer ist Präsident des BAFA?
+    answer: |
+      Herr Torsten Safarik ist seit 2019 Präsident des BAFA?
+  - question: Wer ist Vizepräsident des BAFA?
+    answer: |
+      Frau Dr. Andrea Vater ist seit 2019 Vizepräsidentin des BAFA.
+  - question: Seit wann ist Torsten Safarik Präsdient des BAFA?
+    answer: |
+      Torsten Safarik ist seit 2019 Präsident des BAFA.
+document:
+  repo: https://github.com/TobiasGrahl/KnowledgeBase
+  commit: e2430fc
+  patterns:
+    - BAFA_org*.md

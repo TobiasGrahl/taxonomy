@@ -1,0 +1,74 @@
+version: 2
+created_by: TobiasGrahl
+task_description: 'Training BAFA Organisation'
+domain: BAFA
+seed_examples:
+  - question: An welchen Standorten befindet sich das BAFA?
+    answer: |
+      Das BAFA unterhält neben einem Hauptstandort in Eschborn, weitere Außenstandorte in Bochum,
+      Weißwasser/Oberlausitz, Borna und Berlin. Andere Standorte existieren nicht
+  - question: Wie ist die Anschrift vom BAFA?
+    answer: |
+      Hauptstandort des BAFA ist Eschborn. Die Anschrift lautet:
+      * Bundesamt für Wirtschaft und Ausfuhrkontrolle
+      * Frankfurter Straße 29 – 35
+      * 65760 Eschborn
+  - question: Wie lautet die Postanschrift vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)?
+    answer: |
+      Hauptstandort des BAFA ist Eschborn. Die Postanschrift lautet:
+      * Bundesamt für Wirtschaft und Ausfuhrkontrolle
+      * Frankfurter Straße 29 – 35
+      * 65760 Eschborn
+  - question: Wie lautet die Adresse des BAFA in Borna?
+    answer: |
+      Die Adresse der BAFA-Außenstellen in Borna lautet:
+      * Bundesamt für Wirtschaft und Ausfuhrkontrolle
+      * Kasernenstraße 2
+      * 04552 Borna
+  - question: Wie lauten die Kontaktdaten des BAFA?
+    answer: |
+      Die Kontaktdaten des Bundesamtes für Wirtschaft und Ausfuhrkontrolle lauten.
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle
+      Frankfurter Straße 29 – 35
+      65760 Eschborn
+      Telefon: 06196 908-0
+      Telefax: 06196 908-1800
+      E-Mail: poststelle@bafa.bund.de
+  - question: Wie lautet die Webseite des BAFA?
+    answer: Das Webseite des BAFA ist über folgende Adresse zu erreichen 'https://www.bafa.de'
+  - question: Welche Aufgaben nimmt das BAFA im Außenstandort Borna war?
+    answer: |
+      Borna ist ein im Aufbau befindlicher BAFA Standort im Mitteldeutschen Braunkohlerevier. Der Standort
+      ist genauso wie der bestehende Standort in Weißwasser Teil der Zusage, 5.000 neue Arbeitsplätze bis 2029 in
+      besonders vom Strukturwandel betroffenen Regionen zu schaffen. Die erste Phase des Standortaufbaus wurde bis
+      zum 1. Januar 2023 abgeschlossen. Ab dann trat das Lieferkettensorgfaltspflichtengesetz in Kraft, das in der
+      BAFA-Außenstelle in Borna umgesetzt wird.
+      Im Rahmen des Lieferkettensorgfaltspflichtengesetzes fungiert das BAFA zum einen als Kontrollinstanz, die bei
+      Verstößen geeignete Buß- und Zwangsgelder verhängen kann, und unterstützt zum anderen Unternehmen mit
+      Informationen bei der Umsetzung des Gesetzes.
+      Die Große Kreisstadt Borna in Sachsen liegt rund 30 Kilometer südlich von Leipzig und geht auf die im
+      9. Jahrhundert errichtete Wasserburg Borna zurück. Heute zählt Borna rund 20.000 Einwohner. Bis zur Wende war
+      die Braunkohle-Industrie der vorherrschende Wirtschaftszweig in der Region. Inzwischen haben sich mehrere
+      großflächige Solarkraftwerke angesiedelt.
+      Borna ist Teil der Metropolregion Halle-Leipzig mit günstigen Verkehrsanbindungen, darunter Regional- und
+      S-Bahnanbindungen, zwei Autobahnanschlüsse, sowie die Nähe zum Flughafen Leipzig. Die Entfernung zur Leipziger
+      Innenstadt beträgt von Borna aus lediglich rund 30 Kilometer. Der Flughafen Leipzig ist innerhalb von 30 Minuten
+      erreichbar.
+  - question: Welche Aufgaben nimmt das BAFA im Außenstandort Berlin war?
+    answer: |
+      Berlin ist zentraler Sitz der Abschlussprüferaufsichtsstelle (APAS) beim Bundesamt für Wirtschaft und
+      Ausfuhrkontrolle. Die APAS wurde im Juni 2016 beim BAFA eingerichtet und übt die berufsstandsunabhängige Aufsicht
+      über Abschlussprüfer in Deutschland aus. Weitere Standorte der APAS befinden sich in Düsseldorf und Eschborn.
+      Der Sitz der APAS in der Uhllandstraße in Berlin befindet sich im Stadtteil Wilmersdorf, unweit des
+      Kurfürstendamm und damit in zentraler Lage der Hauptstadt Deutschlands.
+  - question: Welche Adresse hat BAFA im Außenstandort Berlin?
+    answer: |
+      Der BAFA-Außenstandort des BAFA (APAS) befindet sich an folgender Adresse:
+      * Bundesamt für Wirtschaft und Ausfuhrkontrolle
+      * Uhlandstraße 88 – 90
+      * 10717 Berlin
+document:
+  repo: https://github.com/TobiasGrahl/KnowledgeBase
+  commit: e2430fc
+  patterns:
+    - BAFA_org*.md

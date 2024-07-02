@@ -1,0 +1,95 @@
+created_by: TobiasGrahl
+task_description: 'Training BAFA Aufgabenbereich'
+domain: BAFA
+seed_examples:
+  - answer: |
+      Das BAFA nimmt folgende Aufgabenbereiche war:
+      * Ausfuhrkontrolle
+      * Energie
+      * Wirtschafts- und Mittelstandsförderung
+      * Wirtschaftsprüferaufsicht
+    question: Welches sind die Aufgaben des BAFA?
+  - answer: |
+      Im Bereich der Außenwirtschaft übt das BAFA Aufgaben der Exportkontrolle aus. Ausfuhrkontrollen[13] dienen dazu,
+      Sicherheitsinteressen der Bundesrepublik Deutschland und der Völkergemeinschaft zu schützen. So bedürfen
+      bestimmte Güter bei der Ausfuhr in bestimmte Länder einer Genehmigung. Solche Güter sind zum einen Rüstungsgüter,
+      die dem Kriegswaffenkontrollgesetz unterliegen und in Kriegswaffenbüchern zu dokumentieren sind, zum anderen
+      Güter mit zweifachem Verwendungszweck (Duale-use-Güter). Sie sind zum Teil in umfangreichen Listen erfasst.
+      Schwerpunkt der Aufgabe des BAFA ist es dabei zu prüfen, ob die Ausfuhr eines Gutes genehmigungspflichtig und
+      genehmigungsfähig ist. Weiterhin überwacht das Bundesamt für Wirtschaft und Ausfuhrkontrolle Embargos und
+      koordiniert überregionale Regelwerke, wie das Chemiewaffenübereinkommen oder die Nuclear Suppliers Group.
+      
+      Das BAFA unterstützt im Auftrag der Europäischen Union auch Drittländer beim Aufbau eigener
+      Exportkontrollsysteme.
+      Außerdem ist das BAFA für die Zulassung privater Sicherheitsdienste auf Seeschiffen mit dem Ziel der Piratenabwehr
+      zuständig.
+      
+      Auf dem Gebiet des Außenhandels erteilt das BAFA Genehmigungen für die Einfuhr von Waren der gewerblichen
+      Wirtschaft in das Gebiet der EU (z. B. Holz, Textilien und Stahl).
+    question: Welche Aufgabenbereiche führt die BAFA im Bereich Ausfuhrkontrolle durch?
+  - answer: |
+      Im Bereich Energie fördert das BAFA die Energetische Sanierung und energieeffiziente Techniken wie
+      Kraft-Wärme-Kopplung, Klima- und Kälteanlagen oder Wärmenetze. Weiterhin werden Maßnahmen zur Energieeinsparung
+      gefördert, bspw. die Energieberatung für Wohngebäude, die Energieberatung für den Mittelstand,
+      Energiemanagementsysteme für Unternehmen sowie die Beratungen zum Energiesparcontracting für Kommunen. Im Bereich
+      der Elektromobilität setzt das BAFA den Umweltbonus zur Förderung der Nachfrage nach Elektrofahrzeugen um. Eine
+      zentrale Rolle kommt der Bundesstelle für Energieeffizienz (BfEE) im BAFA zu, die das Bundesministerium für
+      Wirtschaft und Klimaschutz in Fragen der Energieeffizienz unterstützt, den Energiedienstleistungsmarkt beobachtet
+      und für die Bundesregierung den Nationalen Aktionsplan Energieeffizienz (NAPE) erstellt. Schließlich setzt das
+      BAFA die Besondere Ausgleichsregelung zur Begrenzung der EEG-Umlage stromintensiver Unternehmen um.
+    question: Welche inhaltliche Aufgaben verantwortet das BAFA im Bereich Energie?
+  - answer: |
+      Schwerpunkt der Wirtschaftsförderung ist die Abwicklung von Programmen für kleine und mittlere Unternehmen, wie
+      die Förderung von überbetrieblichen Berufsbildungsstätten, die Förderung unternehmerischen Wissens und das
+      Förderprogramm „INVEST – Zuschuss für Wagniskapital“. Mit INVEST-Zuschuss für Wagniskapital sollen junge
+      innovative Unternehmen bei der Suche nach einem Kapitalgeber unterstützt werden und private Investoren –
+      insbesondere Business Angels – angeregt werden, Wagniskapital für diese Unternehmen zur Verfügung zu stellen.
+      Zudem unterstützt das BAFA im Bereich Außenwirtschaftsförderung verschiedene Exportinitiativen des
+      Bundesministerium für Wirtschaft und Klimaschutz. Ziel der Mittelstandsförderung ist es, bestehende
+      Wettbewerbsnachteile bei kleinen und mittleren Unternehmen gegenüber Großkonzernen abzubauen. Zugleich soll ein
+      wirksamer Beitrag zur Beschäftigungspolitik geleistet, die Existenzgründungsbereitschaft erhöht und die Gefahr
+      einer unzureichenden Anpassung an den permanenten strukturellen Wandel verhindert werden. Zu den weiteren
+      Aufgaben gehören z. B. die Umsetzung des Satellitendatensicherheitsgesetz (SatDSiG), die Entschädigung für
+      drahtlose Mikrofonanlagen (Billigkeitsentschädigung) und die Überprüfung der pharmazeutischen Herstellerabschläge.
+    question: Welche Aufgaben nimmt das BAFA im Bereich Wirtschafts- und Mittelstandsförderung war?
+  - answer: |
+      Das Bundesamt nimmt in den Bereichen Außenwirtschaft, Wirtschafts- und Mittelstandsförderung,
+      Energie und Abschlussprüferaufsichtsstelle wichtige administrative Aufgaben des Bundes wahr.
+    question: Was sind die Leistungen und Zuständigkeiten des BAFA?
+  - answer: |
+      Im Bereich der Außenwirtschaft übt das BAFA Aufgaben der Exportkontrolle aus.
+      Ausfuhrkontrollen dienen dazu, Sicherheitsinteressen der Bundesrepublik Deutschland und der Völkergemeinschaft
+      zu schützen. So bedürfen bestimmte Güter bei der Ausfuhr in bestimmte Länder einer Genehmigung. Solche Güter
+      sind zum einen Rüstungsgüter, die dem Kriegswaffenkontrollgesetz unterliegen und in Kriegswaffenbüchern zu 
+      dokumentieren sind, zum anderen Güter mit zweifachem Verwendungszweck (Duale-use-Güter). Sie sind zum Teil in 
+      umfangreichen Listen erfasst. Schwerpunkt der Aufgabe des BAFA ist es dabei zu prüfen, ob die Ausfuhr eines Gutes
+      genehmigungspflichtig und genehmigungsfähig ist. Weiterhin überwacht das Bundesamt für Wirtschaft und 
+      Ausfuhrkontrolle Embargos und koordiniert überregionale Regelwerke, wie das Chemiewaffenübereinkommen oder die 
+      Nuclear Suppliers Group.
+      Das BAFA unterstützt im Auftrag der Europäischen Union auch Drittländer beim Aufbau eigener
+      Exportkontrollsysteme.
+      Außerdem ist das BAFA für die Zulassung privater Sicherheitsdienste auf Seeschiffen mit dem Ziel der
+      Piratenabwehr zuständig. Auf dem Gebiet des Außenhandels erteilt das BAFA Genehmigungen für die Einfuhr von Waren
+      der gewerblichen Wirtschaft in das Gebiet der EU (z. B. Holz, Textilien und Stahl). 
+    question: |
+      Was verantwortet das Bundesamt für Wirschaft und Ausfuhrkontrolle (BAFA) im Bereich der Außenwirtschaft war?
+  - answer: |
+      BDie Abschlussprüferaufsichtsstelle (APAS) ist in Deutschland für die Abschlussprüferaufsicht zuständig. Sie ist
+      eine Behörde im funktionalen Sinn, fachlich eigenständig und unabhängig. Organisatorisch ist sie in das BAFA
+      eingegliedert. Sie beaufsichtigt die Tätigkeit von Abschlussprüfern, sofern diese Abschlussprüfungen bei
+      Unternehmen von öffentlichem Interesse durchführen. Anlassbezogene Ermittlungen werden zum Beispiel durchgeführt,
+      wenn sich aus Inspektionen konkrete Anhaltspunkte für Verstöße gegen Berufspflichten ergeben. Schließlich leistet
+      die Abschlussprüferaufsichtsstelle einen Beitrag zur Verbesserung der Prüfungsqualität durch aktive Mitarbeit in
+      den europäischen und internationalen Gremien der Prüferaufsichten sowie durch einen Dialog mit
+      Prüfungsausschüssen von Unternehmen. Darüber hinaus übt die APAS die öffentliche fachbezogene Aufsicht über die
+      Wirtschaftsprüferkammer aus und ist damit für die Überwachung der Qualität von gesetzlichen Abschlussprüfungen
+      bei allen anderen Unternehmen verantwortlich. Die Abschlussprüferaufsichtsstelle hat die Aufgaben der zum
+      17. Juni 2016 aufgelösten ehrenamtlichen Abschlussprüferaufsichtskommission (APAK) übernommen. Die Einrichtung
+      der Abschlussprüferaufsichtsstelle beruht auf dem Abschlussprüferaufsichtsreformgesetz, das europäische
+      Regelungen in nationales Recht umsetzt.
+    question: Welche Aufgaben nimmt das BAFA im Bereich Wirtschaftsprüferaufsicht war?
+document: 
+ repo: https://github.com/TobiasGrahl/KnowledgeBase
+ commit: bab8b63
+ patterns:
+   - BAFA_scope.md
