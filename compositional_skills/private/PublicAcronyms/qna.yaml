@@ -8,26 +8,24 @@ task_description: |
     Akronyme in Klammern hinzu.\\
 created_by: TobiasGrahl
 seed_examples:
-  
   - context: |
       Im Kontext der Öffentlichen Verwaltung bzw. Öffentlichen Dienst.
     question: |
       Was bedeutet die Abkürzung BMWK im angegebenen Kontext?
     answer: |
       Bundesministerium für Wirktschaft und Klimaschutz (BMWK)
-      
   - context: |
       Im Kontext der Öffentlichen Verwaltung bzw. Öffentlichen Dienst.
     question: |
       Was bedeutet die Abkürzung DSVGO im angegebenen Kontext?
     answer: |
-      atenschutz-Grundverordnung (DSGVO (BMWK)
+      Datenschutz-Grundverordnung (DSGVO)
   - context: |
       Im Kontext der Öffentlichen Verwaltung bzw. Öffentlichen Dienst.
     question: |
       Was bedeutet die Abkürzung KfW im angegebenen Kontext?
     answer: |
-      Kreditanstalt für Wiederaufbau (KfW)
+      Kreditanstalt für Wiederaufbau(KfW)
   - context: |
       Im Kontext der Öffentlichen Verwaltung bzw. Öffentlichen Dienst.
     question: |

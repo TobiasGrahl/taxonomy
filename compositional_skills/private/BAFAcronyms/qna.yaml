@@ -34,7 +34,7 @@ seed_examples:
       Im Kontext des BAFA gilt, Umlagen, von denen das Unternehmen befreit ist, z.B. durch einen Begrenzungsbescheid
       nach dem EEG 2021, sind nicht zu berücksichtigen.
     question: Was bedeutet die Abkürzung EEG?
-    answer: Energieeffizienzgesetz 
+    answer: Energieeffizienzgesetz
   - context: |
       Bundesförderung für effiziente Gebäude (BEG) des Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) BGB
     question: Was bedeutet die Abkürzung BEG?
@@ -54,7 +54,7 @@ seed_examples:
   - context:
       Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet EE?
-    answer:  Energieeffizienz (EE)
+    answer: Energieeffizienz (EE)
   - context:
       Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet EEE?
@@ -67,3 +67,7 @@ seed_examples:
       Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet EI?
     answer: Energieeffizienzindex (EI)
+context:
+      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+    question: Was bedeutet KWK?
+    answer: Kraft-Wärme-Kopplung (KWK)
