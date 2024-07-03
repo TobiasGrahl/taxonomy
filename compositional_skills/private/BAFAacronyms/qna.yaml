@@ -67,7 +67,7 @@ seed_examples:
       Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet EI?
     answer: Energieeffizienzindex (EI)
-context:
+  - context:
       Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet KWK?
     answer: Kraft-Wärme-Kopplung (KWK)
