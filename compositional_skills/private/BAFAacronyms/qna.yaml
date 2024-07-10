@@ -39,35 +39,27 @@ seed_examples:
       Bundesförderung für effiziente Gebäude (BEG) des Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) BGB
     question: Was bedeutet die Abkürzung BEG?
     answer: Die Abkürung BEG steht für Bundesförderung für effiziente Gebäude.
-  - context:
-      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+  - context: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet ELAN-K2 Online Portal?
     answer: ELAN-K2 Online Portal ist das elektronische Anstragsportal des BAFA.
-  - context:
-      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+  - context: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet EnF?
     answer: Energiefinanzierungsgesetz (EnFG)
-  - context:
-      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+  - context: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet GEG?
     answer: Gebäudeenergiegesetz (GEG)
-  - context:
-      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+  - context: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet EE?
     answer: Energieeffizienz (EE)
-  - context:
-      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+  - context: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet EEE?
     answer: Energieeffizienz-Experte (EEE)
-  - context:
-      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+  - context: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet EEG?
     answer: Energieeffizienzgesetz (EEG)
-  - context:
-      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+  - context: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet EI?
     answer: Energieeffizienzindex (EI)
-  - context:
-      Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+  - context: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
     question: Was bedeutet KWK?
     answer: Kraft-Wärme-Kopplung (KWK)
